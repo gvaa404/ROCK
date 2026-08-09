@@ -1,0 +1,9 @@
+Flask
+python-dotenv
+pyperclip
+pyautogui
+PyGetWindow
+yt-dlp
+comtypes
+pycaw
+psutil
